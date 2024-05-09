@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicaWPF.Lite", "src\MicaWPF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicaWPF.Test", "src\MicaWPF.Test\MicaWPF.Test.csproj", "{5C19DC10-9A55-452D-819E-A2C62FE0F4C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDemo", "WpfDemo\WpfDemo.csproj", "{D7937625-B9A1-412E-9FA6-7257795A8064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,14 @@ Global
 		{5C19DC10-9A55-452D-819E-A2C62FE0F4C7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5C19DC10-9A55-452D-819E-A2C62FE0F4C7}.Release|x64.ActiveCfg = Release|Any CPU
 		{5C19DC10-9A55-452D-819E-A2C62FE0F4C7}.Release|x64.Build.0 = Release|Any CPU
+		{D7937625-B9A1-412E-9FA6-7257795A8064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7937625-B9A1-412E-9FA6-7257795A8064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7937625-B9A1-412E-9FA6-7257795A8064}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D7937625-B9A1-412E-9FA6-7257795A8064}.Debug|x64.Build.0 = Debug|Any CPU
+		{D7937625-B9A1-412E-9FA6-7257795A8064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7937625-B9A1-412E-9FA6-7257795A8064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7937625-B9A1-412E-9FA6-7257795A8064}.Release|x64.ActiveCfg = Release|Any CPU
+		{D7937625-B9A1-412E-9FA6-7257795A8064}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
